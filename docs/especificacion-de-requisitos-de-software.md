@@ -305,3 +305,13 @@ Estas mejoras fortalecerán el sistema, ampliarán su alcance y ofrecerán una e
 
 
 <img width="930" height="524" alt="image" src="https://github.com/user-attachments/assets/f6488eef-e5f5-4976-8fde-80583d26d9a5" />
+
+<img width="1019" height="609" alt="image" src="https://github.com/user-attachments/assets/871379e7-ffe0-41ad-b44e-f96537331197" />
+
+<img width="1028" height="604" alt="image" src="https://github.com/user-attachments/assets/40d5ab6b-1378-48e7-93b4-b01f0fe7c236" />
+
+<img width="1031" height="609" alt="image" src="https://github.com/user-attachments/assets/c22db3ce-d0f9-4669-a437-08a1781a0509" />
+
+<img width="1026" height="612" alt="image" src="https://github.com/user-attachments/assets/d41af1de-22e9-4967-b50c-e16afac077ae" />
+
+<img width="1037" height="607" alt="image" src="https://github.com/user-attachments/assets/64ef7b23-b165-4b9d-a345-eaaadf073273" />
